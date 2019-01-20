@@ -1,0 +1,2 @@
+# inevitables
+thoughts on code
